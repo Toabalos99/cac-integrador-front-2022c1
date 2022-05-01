@@ -1,3 +1,5 @@
+
+
 img {
     width: 150px;
     height: auto;
@@ -33,8 +35,8 @@ text-align: justify;
 }
 .boton1{
     position: absolute;
-    right: 300px;
-    top: 75%;
+    right: 280px;
+    top: 74%;
 }
 .qso {
     color: aliceblue;
@@ -53,4 +55,14 @@ text-align: justify;
     padding: 8.5px;
     background-color: rgb(59, 160, 59);
     border-radius:4px;
+}
+
+.c {
+   text-align: center;
+  
+}
+.c2 {
+    text-align: center;
+    font-size: 30px;
+    line-height: 20%;
 }
