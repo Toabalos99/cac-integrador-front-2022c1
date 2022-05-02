@@ -65,4 +65,42 @@ text-align: justify;
     line-height: 20%;
 }
 
+        
+        .color6 {
+            text-align: center;
+            justify-content: center;
+        }
+
+        .textoabajo {
+            font-size: 10px;
+        }
+      
+.color3 {
+    background-color: gray;
+}
+
+
+@media screen and (max-width: 700px){
+    .texthawai{
+    font-size:1.5em;
+    }
+    .texthawai2{
+    font-size:0.9em;
+    }}
+    .QSO{
+        size: 10px;  }   
+        .CTT{
+            size: 10px;
+            }
+
+
+    @media screen and (max-width: 580px){
+        .texthawai{
+        font-size:1.1em;
+        }
+        .texthawai2{
+        font-size:0.7em;
+        }}
+
+
 
